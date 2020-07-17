@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import './SearchBar.css';
 
@@ -71,7 +72,7 @@ class SearchBar extends React.Component{
                     <input placeholder="Where?" onChange={this.handleLocationChange} />
                 </div>
                 <div className="SearchBar-submit">
-                    <a href="www.#.com" onClick={this.handleSearch}>Let's Go</a>
+                    <a onClick={this.handleSearch}>Let's Go</a>
                 </div>
             </div>
         )
