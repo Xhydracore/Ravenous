@@ -2,6 +2,8 @@
 
 A client-side React application, utilizing the Yelp API to search for local businesses.
 
+You can visit the deployed app, at [https://xhydracore.github.io/Ravenous/](https://xhydracore.github.io/Ravenous/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
